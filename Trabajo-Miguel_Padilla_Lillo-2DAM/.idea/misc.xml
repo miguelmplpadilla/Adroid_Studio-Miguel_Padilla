@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Desktop/Adroid_Studio-Miguel_Padilla/Trabajo-Miguel_Padilla_Lillo-2DAM/app/src/main/res/layout-night/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Desktop/Adroid_Studio-Miguel_Padilla/Trabajo-Miguel_Padilla_Lillo-2DAM/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Desktop/Desktop/Clase/SEGUNDO/Desarrollo_de_interfaces/Programas/Android/Prueba2/app/src/main/res/layout-night/activity_main.xml" value="0.264" />
+        <entry key="..\:/Desktop/Desktop/Clase/SEGUNDO/Desarrollo_de_interfaces/Programas/Android/Prueba2/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Desktop/Desktop/Clase/SEGUNDO/Desarrollo_de_interfaces/Programas/Android/Trabajo-Miguel_Padilla_Lillo-2DAM/app/src/main/res/layout-night/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Desktop/Desktop/Clase/SEGUNDO/Desarrollo_de_interfaces/Programas/Android/Trabajo-Miguel_Padilla_Lillo-2DAM/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

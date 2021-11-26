@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prueba2</string>
+    <string name="nombre">Name</string>
+    <string name="primerapellido">First Surname</string>
+    <string name="segundoapellido">Second surname</string>
+    <string name="edad">Age</string>
+    <string name="sexo">Gender</string>
+    <string name="femenino">Female</string>
+    <string name="masculino">Male</string>
+    <string name="nobinario">Non Binary</string>
+    <string name="alergias">Allergies</string>
+    <string name="enfermedades">Diseases</string>
+    <string name="discapacidad">Disability</string>
+    <string name="borrar">Delete</string>
+    <string name="enviar">Send</string>
+    <string name="formularioenviado">Form Submitted</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Prueba2</string>
+    <string name="nombre">Nombre</string>
+    <string name="primerapellido">Primer Apellido</string>
+    <string name="segundoapellido">Segundo Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="sexo">Sexo</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="nobinario">No Binario</string>
+    <string name="alergias">Alergias</string>
+    <string name="enfermedades">Enfermedades</string>
+    <string name="discapacidad">Discapacidad</string>
+    <string name="borrar">Borrar</string>
+    <string name="enviar">Enviar</string>
+    <string name="formularioenviado">Formulario Enviado</string>
+</resources>
